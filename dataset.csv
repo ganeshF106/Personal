@@ -1,0 +1,33 @@
+ID,Start time,Completion time,Email,Name,What is your gender?,What age group do you belong to?,What is your course?,What type of devices do you use when learning?,How long does it take you to get to the university?,What is your most preferred mode of learning?,Do you feel your choice of mode of learning supports your communication with other students?,Do you agree that hybrid learning is more effective than online and onsite?,Which of the following onsite to online learning ratios would supports your learning more effectively?,What challenges do you face while studying online?,How likely are you to get distracted during an online sessions?,How likely are you to be using social media while attending online sessions?,What do you use to communicate with your lecturers?,How would you rate this survey?
+1,3-8-22 20:48:06,3-8-22 20:52:13,anonymous,,Male ,18-24,BA (Hons) Accounting and Finance,Laptop,>60 minutes,Onsite ,Yes,Disagree,50:50,Technical issues,Likely,Likely,Email,4
+2,3-8-22 21:06:03,3-8-22 21:08:30,anonymous,,Male ,18-24,BSc (Hons) Marketing,Tablet,<15 minutes,Onsite ,Yes,Agree,30:70,Distractions,Likely,Likely,Email,5
+3,3-8-22 21:48:41,3-8-22 21:50:13,anonymous,,Male ,35-44,BA Business Management with Business Practice ,Desktop,<15 minutes,Onsite ,Yes,Agree,50:50,Technical issues,Likely,Likely,MS Teams,4
+4,3-8-22 23:01:12,3-8-22 23:02:08,anonymous,,Man,18-24,BA (Hons) Business Management,Smartphone,45-60 minutes,Onsite ,Yes,Not sure,30:70,Network issues,Likely,Not sure,Email,5
+5,3-9-22 1:57:04,3-9-22 1:58:10,anonymous,,Male ,18-24,BA (Hons) Accounting and Finance,Laptop,45-60 minutes,Hybrid,No,Agree,20:80,Network issues,Likely,Likely,MS Teams,4
+6,3-9-22 22:57:35,3-9-22 22:59:16,anonymous,,Female ,18-24,BA (Hons) Business Management,Laptop,15-30 minutes,Online ,Yes,Agree,50:50,Distractions,Likely,Likely,Email,5
+7,3-9-22 22:57:51,3-9-22 23:00:26,anonymous,,Male ,18-24,BA (Hons) Business Management,Laptop,45-60 minutes,Onsite ,Yes,Not sure,20:80,Distractions,Likely,Unlikely,Email,4
+8,3-9-22 23:00:36,3-9-22 23:02:03,anonymous,,Male ,25-34,BA (Hons) Accounting and Finance,Tablet,30-45 minutes,Onsite ,Yes,Not sure,50:50,Network issues,Likely,Likely,Email,3
+9,3-9-22 23:04:51,3-9-22 23:05:43,anonymous,,Male ,18-24,BA (Hons) Business Management,Laptop,30-45 minutes,Hybrid,Yes,Agree,40:60,Network issues,Likely,Likely,Mobile,5
+10,3-9-22 23:08:19,3-9-22 23:10:37,anonymous,,Boy,18-24,BSc (Hons) Marketing,Laptop,30-45 minutes,Onsite ,Yes,Agree,50:50,Distractions,Likely,Not sure,MS Teams,5
+11,3-9-22 23:15:39,3-9-22 23:16:28,anonymous,,Female ,25-34,BSc (Hons) Marketing,Tablet,45-60 minutes,Onsite ,Yes,Agree,50:50,Distractions,Likely,Likely,Email,4
+12,3-9-22 23:16:34,3-9-22 23:18:18,anonymous,,Female ,18-24,BA (Hons) Accounting and Finance,Desktop,<15 minutes,Hybrid,No,Agree,40:60,Distractions,Likely,Likely,Email,5
+13,3-9-22 23:40:40,3-9-22 23:43:15,anonymous,,Male ,25-34,BA (Hons) Business Management,Laptop,30-45 minutes,Onsite ,Yes,Agree,20:80,Distractions,Likely,Likely,Mobile,5
+14,3-9-22 23:49:02,3-9-22 23:49:57,anonymous,,Male ,18-24,BA (Hons) Accounting and Finance,Smartphone,30-45 minutes,Online ,Yes,Not sure,40:60,Technical issues,Unlikely,Unlikely,Email,5
+15,3-10-22 19:14:20,3-10-22 19:17:11,anonymous,,Female ,18-24,BA (Hons) Business Management,Smartphone,>60 minutes,Hybrid,Yes,Agree,50:50,Distractions,Likely,Likely,Email,5
+16,3-10-22 19:23:00,3-10-22 19:25:50,anonymous,,Female ,25-34,BSc (Hons) Marketing,Laptop,<15 minutes,Onsite ,Yes,Agree,50:50,Distractions,Likely,Likely,Email,3
+17,3-10-22 19:24:52,3-10-22 19:27:12,anonymous,,Female ,18-24,BA (Hons) Business Management,Laptop,30-45 minutes,Hybrid,Yes,Agree,40:60,Distractions,Not sure,Unlikely,Email,5
+18,3-10-22 19:25:38,3-10-22 19:27:56,anonymous,,Male ,35-44,BA Business Management with Business Practice ,Desktop,45-60 minutes,Hybrid,Yes,Agree,30:70,Technical issues,Likely,Likely,Email,5
+19,3-10-22 19:31:32,3-10-22 19:33:44,anonymous,,Female ,25-34,BA (Hons) Business Management,Laptop,45-60 minutes,Hybrid,No,Agree,40:60,Network issues,Likely,Likely,MS Teams,5
+20,3-10-22 19:31:46,3-10-22 19:34:14,anonymous,,Male ,18-24,BA (Hons) Business Management,Smartphone,30-45 minutes,Hybrid,No,Not sure,40:60,Network issues,Likely,Likely,Email,3
+21,3-10-22 14:34:09,3-10-22 14:35:31,anonymous,,Male ,25-34,BA (Hons) Business Management,Laptop,15-30 minutes,Onsite ,Yes,Disagree,20:80,Distractions,Likely,Likely,Email,5
+26,3-15-22 22:31:42,3-15-22 22:33:35,anonymous,,Male ,18-24,BA (Hons) Business Management,Laptop,45-60 minutes,Onsite ,Yes,Agree,30:70,Network issues,Likely,Likely,MS Teams,4
+27,3-15-22 23:00:59,3-15-22 23:02:53,anonymous,,Woman,18-24,BA Business Management with Business Practice ,Tablet,45-60 minutes,Onsite ,Yes,Disagree,20:80,Distractions,Likely,Not sure,MS Teams,5
+28,3-17-22 13:27:38,3-17-22 13:29:49,anonymous,,Female ,25-34,BA (Hons) Business Management,Laptop,15-30 minutes,Onsite ,Yes,Not sure,40:60,Distractions,Likely,Likely,Email,4
+22,3-18-22 15:27:49,3-18-22 15:29:48,anonymous,,Male ,18-24,BA (Hons) Accounting and Finance,Laptop,<15 minutes,Hybrid,Yes,Agree,50:50,Distractions,Likely,Likely,MS Teams,5
+23,3-18-22 15:40:38,3-18-22 15:41:12,anonymous,,Female ,18-24,BA (Hons) Business Management,Tablet,30-45 minutes,Onsite ,Yes,Not sure,50:50,Distractions,Likely,Likely,Email,5
+24,3-18-22 15:40:10,3-18-22 15:41:43,anonymous,,Female ,18-24,BA (Hons) Accounting and Finance,Laptop,45-60 minutes,Hybrid,Yes,Disagree,20:80,Distractions,Unlikely,Unlikely,Email,4
+25,3-18-22 15:40:36,3-18-22 15:43:21,anonymous,,Male ,18-24,BA (Hons) Business Management,Laptop,15-30 minutes,Hybrid,Yes,Agree,20:80,Network issues,Unlikely,Likely,Email,3
+32,3-24-22 12:13:53,3-24-22 12:16:03,anonymous,,Girl,18-24,BA (Hons) Business Management,Tablet,45-60 minutes,Onsite ,Yes,Not sure,50:50,Distractions,Likely,Likely,Mobile,5
+29,3-24-22 14:39:52,3-24-22 14:42:12,anonymous,,Male ,35-44,BSc (Hons) Marketing,Laptop,>60 minutes,Onsite ,Yes,Agree,50:50,Distractions,Likely,Unlikely,MS Teams,5
+30,3-26-22 18:30:48,3-26-22 18:32:18,anonymous,,Male ,35-44,BA (Hons) Business Management,Desktop,45-60 minutes,Hybrid,Yes,Agree,30:70,Technical issues,Likely,Likely,Mobile,5
+31,3-26-22 18:32:21,3-26-22 18:34:05,anonymous,,Male ,35-44,BA Business Management with Business Practice ,Laptop,>60 minutes,Hybrid,Yes,Agree,50:50,Distractions,Likely,Likely,Email,5
